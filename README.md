@@ -10,5 +10,5 @@ An implemention of pugin wallet that suppor ERC-4337, including a wrapped SDK fo
 - issues discussion
 
 ## Who can attdend
-Wallet developers, Ethereum researchers and anyone who's interestd in learning ERC-4337.
+Wallet developers, Ethereum researchers and anyone who's interestd in building a wallet that support ERC-4337.
 
